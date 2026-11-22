@@ -57,6 +57,40 @@ Ferramenta criada para analisar sinais públicos de sites e identificar possíve
 
 ---
 
+### 03 — Sentinela
+**Monitoramento de disponibilidade de sites**
+
+- Verificações HTTP no servidor, intervalos configuráveis e histórico de 30 dias.
+- Abertura e resolução automática de incidentes, sem duplicar falhas consecutivas.
+- Exportação CSV, senha do workspace e bloqueio de destinos de redes privadas.
+- Demonstração simulada com monitores inicialmente pausados.
+
+**Tecnologias:** Node.js, SQLite, JavaScript, HTML e CSS, sem dependências externas.
+**Validação:** 6 testes automatizados de regras, agendamento, API em processo e autenticação.
+
+[Código e instruções — repositório privado](https://github.com/vetedugiragira/sentinela)
+
+> O monitoramento funciona enquanto o servidor está em execução. Alertas são exibidos no painel. Não há demonstração hospedada neste momento.
+
+---
+
+### 04 — Estoque Fácil
+**Gestão de produtos, movimentações e vendas**
+
+- Produtos, fornecedores, estoque mínimo e exportação CSV.
+- Vendas com vários itens, baixa de estoque em transação e prevenção de duplicidade.
+- Cancelamento com estorno único e histórico de movimentações.
+- Indicadores de receita, margem bruta registrada e valorização do estoque.
+
+**Tecnologias:** Node.js, SQLite, JavaScript, HTML e CSS, sem dependências externas.
+**Validação:** 5 testes automatizados de saldo, transações, idempotência, estorno, persistência e API em processo.
+
+[Código e instruções — repositório privado](https://github.com/vetedugiragira/estoque-facil)
+
+> Ferramenta de gestão interna. Não processa pagamentos nem emite nota fiscal. Não há demonstração hospedada neste momento.
+
+---
+
 ## 🎨 Criação e comunicação
 
 Além de software, desenvolvi materiais acadêmicos e projetos visuais com apoio de ferramentas digitais e IA.

@@ -65,9 +65,6 @@ Além de software, desenvolvi materiais acadêmicos e projetos visuais com apoio
 | --- | --- |
 | **Medicamentos que podem alterar a glicemia** | Banner acadêmico, diagramação, ajustes de identidade visual e versões em PDF e PowerPoint editável. |
 | **Materiais de conscientização sobre medicamentos e glicemia** | Marcadores de páginas e pequenos impressos com mensagem educativa. |
-| **Relatórios de aulas práticas** | Organização e revisão de relatórios de uroanálise e coletas, com atenção à separação dos temas e à apresentação acadêmica. |
-| **Personagem troll para RPG de mesa** | Conceito, história, personalidade, atributos, habilidades e exploração visual em uma paleta azul. |
-| **Edições e composições visuais** | Exploração de figurinos, temas de personagens e restauração de imagens. |
 
 Os materiais com dados pessoais e as fotografias de terceiros não são disponibilizados neste repositório.
 
